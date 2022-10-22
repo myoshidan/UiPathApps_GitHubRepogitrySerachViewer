@@ -1,1 +1,7 @@
 # UiPathApps_GitHubRepositorySerachViewer
+
+## 概要
+
+UiPath Integration ServiceとUiPath AppsでGitHub Search APIを呼び出し、高評価のレポジトリを検索するWebアプリを作りました。
+それぞれ、完成したコネクターやアプリをExportしたパッケージを格納していますので、皆さんの環境にインポートいただくことでサンプルとしてご覧いただけます。
+
