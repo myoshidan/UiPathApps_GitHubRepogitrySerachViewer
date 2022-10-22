@@ -1,1 +1,1 @@
-# UiPathApps_GitHubRepogitrySerachViewer
+# UiPathApps_GitHubRepositorySerachViewer
